@@ -1,8 +1,25 @@
 body {
-    background: beige;
-    text-align: center;
+  background: #f8e8a6;
+  margin: 50px;
 }
 
-a {
-    text-align: center;
+h1,
+p {
+  text-align: center;
+}
+
+.croissant-pic {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
 }
